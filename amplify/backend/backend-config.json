@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "firstaws9b834c0a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
